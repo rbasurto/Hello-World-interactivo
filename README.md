@@ -4,7 +4,7 @@ Hello-World-interactivo
 Una sencilla aplicación para iOS 7
 
 Este es el código fuente de un pequeño tutorial que hice en mi blog: 
-http://rbasurto.blogspot.com/p/hello-world-interactivo-ios7-xcode-5.html 
+http://rbasurto.blogspot.com/2014/02/hello-world-interactivo-ios7.html
 
 Aparte de tener un campo de texto (Text Field) y un botón (Button), se 
 demuestra como ocultar el teclado de la pantalla una vez que hemos terminado
